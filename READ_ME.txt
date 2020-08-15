@@ -6,3 +6,8 @@ Permission Required are :
 2. Network State
 3. Read External Storage
 
+Test Credentials - 
+
+userName - user3@mail.com
+password -  Asdf@123
+
