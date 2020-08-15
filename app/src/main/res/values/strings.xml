@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">​SimpleUserDirectoryApplication</string>
+    <string-array name="array_education">
+
+        <item>Undergraduate</item>
+
+        <item>Graduate</item>
+
+        <item>Postgraduate</item>
+
+        <item>Doctorate</item>
+
+        <item>Diploma</item>
+
+        <item>Others</item>
+
+    </string-array>
+
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "361318092807",
+    "firebase_url": "https://simpleuserdirectoryapplication.firebaseio.com",
+    "project_id": "simpleuserdirectoryapplication",
+    "storage_bucket": "simpleuserdirectoryapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361318092807:android:2d4db93aac37619a7f1aa2",
+        "android_client_info": {
+          "package_name": "com.ankush.simpleuserdirectoryapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361318092807-nmddiaslmrsgfuekfmbfi5sf3th04r2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ankush.simpleuserdirectoryapplication",
+            "certificate_hash": "fbe4ff1e09e23de02316b7094541496c8b4b85b6"
+          }
+        },
+        {
+          "client_id": "361318092807-8sja7bp4r89180fcp5naob9elshd5e9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMFqWG5JZqe64u-tP5LjElirRPfVppXIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361318092807-8sja7bp4r89180fcp5naob9elshd5e9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
